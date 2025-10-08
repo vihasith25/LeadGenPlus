@@ -27,13 +27,8 @@ The repository includes an example CSV (`example_leads.csv`) with sample leads.
    
 ## File Structure
 
-LeadGenPlus/
-│
-├── app.py          # Main Streamlit application
-├── lead_scoring.py # Functions for scoring and enriching leads
-├── example_leads.csv  # Sample input CSV
-├── requirements.txt
-└── README.md       # This file
+<img width="577" height="193" alt="image" src="https://github.com/user-attachments/assets/62d9be94-5006-4a39-8cff-bd77b0aecb45" />
+
 
 ## How It Adds Value
 
